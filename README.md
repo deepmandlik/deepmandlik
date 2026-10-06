@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Mandlik</h1>
-<h3 align="center">A Software Engineer who Crafting Innovative Solutions through Code</h3>
+<h3 align="center">A Software Engineer who is Crafting Innovative Solutions through Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepmandlik&label=Profile%20views&color=0e75b6&style=flat" alt="deepmandlik" /> </p>
-
-- 🔭 I’m currently working on [Urban Trip](https://github.com/deepmandlik/UrbanTrip)
 
 - 🌱 I’m currently learning **React Native**
 
